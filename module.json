@@ -1,0 +1,11 @@
+{
+    "name": "Red-EXP-bar-Green-rested-EXP-bar",
+    "category": "client",
+    "description": "Turns the EXP bar red and rested EXP light green.",
+    "author": "Raven",
+    "options": {
+        "guiName": "UI: Red EXP bar and Green rested EXP bar",
+        "niceName": "Red EXP bar and Green rested EXP bar"
+    },
+    "servers": ["https://raw.githubusercontent.com/RavenMods/Red-EXP-bar-Green-rested-EXP-bar/master/"]
+}
